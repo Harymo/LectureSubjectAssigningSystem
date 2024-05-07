@@ -1,3 +1,3 @@
-# LecturersWeightGradingSystem
-Assigns subjects to lecturers based on their grade weight
 # LectureSubjectAssigningSystem
+Assigns subjects to lecturers based on their grade weight
+
